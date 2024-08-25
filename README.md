@@ -9,6 +9,6 @@ NeuroGenesis is designed to be visually appealing, informative, and easy to navi
 To deploy this project run
 
 ```bash
-  npm run deploy
+  npm run dev
 ```
 
